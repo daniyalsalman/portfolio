@@ -1,0 +1,11 @@
+{
+  "name": "Daniyal Salman",
+  "short_name": "Daniyal Salman",
+  "icons": [
+    { "src": "/favicon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#1f2937",
+  "background_color": "#f9fafb",
+  "display": "standalone"
+}
